@@ -2,5 +2,6 @@
 
 To use these they are cloned either into a jupyter environment or onto a own deployment. 
 
-Questions are answered by Pål Ellingsen
+Questions are answered by Pål 
+
 Copyright Pål Ellingsen 
